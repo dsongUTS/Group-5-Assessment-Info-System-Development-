@@ -19,7 +19,6 @@ Reflections
   accomplish these tasks over time, reducing overall quality and company success.
 
 Assumptions: 
-
 - It is assumed that all relationship managers are pleased at their job at the call centre and are working efficiently. This removes them as a variable when testing if the new system has made improvements.
 -	The profiler tool and the system will distribute inbound and outbound calls as fairly and equally as possible amongst the relationship managers. This prevents some RMs being favoured over others in the workplace.
 -	The skill score that is calculated based on an RMs previous call considers the customers intentions and actions. This prevents RMs being consistently assigned low scores for situations out of their control.
