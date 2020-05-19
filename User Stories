@@ -1,0 +1,46 @@
+User story Template: 
+Priority: 
+Estimate:
+  User Story:
+  As a <description of user>
+  I want <functionality>
+  So that <benefit>
+  
+  Acceptance Criteria:
+  Given <how things begin>
+  When <action taken>
+  Then <outcome of taking action>
+
+User story 1: Relationship Manager Outbound 
+Priority: Medium
+Estimate: 2-3 months
+  User Story:
+  As an outbound Relationship Manager
+  I want a way to have customer information automatically display on my screen and a potential script prepared
+  So that I can access whatever information I need at a glance 
+  
+  Acceptance Criteria:
+  Given that I will see important information
+  When I need to answer customer inquiries
+  Then I have an easier time answering them rather than taking valuable time searching for answers
+
+User story 2: Inbound inquiring customer 
+Priority: Medium
+Estimate: 2-3 months 
+  User Story:
+  As a customer with just a short inquiry needing clarification
+  I want to be have some sort of priority queue I can elect myself for 
+  So that I don't have to wait in line so long just for a quick call 
+  
+  Acceptance Criteria:
+  Given when I ring, I'm still waiting to be put on hold
+  When I'm able to select that my call is for a quick question under 2 minutes
+  Then that will make it more efficient for both parties 
+
+User story 3: Junior Relationship Manager
+
+
+
+
+User story 4: Experienced Relationship manager 
+
