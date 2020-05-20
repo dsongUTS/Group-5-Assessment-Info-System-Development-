@@ -38,9 +38,28 @@ Estimate: 2-3 months
   Then that will make it more efficient for both parties 
 
 User story 3: Junior Relationship Manager
-
+Priority: High
+Estimate: 2-3 weeks
+  User Story:
+  As a new relationship manager with less experience 
+  I want a way for call flows to be more easily segmented 
+  So that I can better handle inquiries at my current level of expertise
+  
+  Acceptance Criteria:
+  Given the current large amount of holiday packages to remember
+  When I have more specific customers to deal with 
+  Then I will feel more at ease and provide better service for inquiries
 
 
 
 User story 4: Experienced Relationship manager 
+  User Story:
+  As a <description of user>
+  I want <functionality>
+  So that <benefit>
+  
+  Acceptance Criteria:
+  Given <how things begin>
+  When <action taken>
+  Then <outcome of taking action>
 
