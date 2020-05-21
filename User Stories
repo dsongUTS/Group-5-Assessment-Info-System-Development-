@@ -53,13 +53,15 @@ Estimate: 2-3 weeks
 
 
 User story 4: Experienced Relationship manager 
+  Priority: High
+  Estimate: 2-3 weeks
   User Story:
-  As a <description of user>
-  I want <functionality>
-  So that <benefit>
+  As a relationship manager with years of experience
+  I want a way for call flows to be more easily segmented
+  So that I can better convert customers with more willingness to buy
   
   Acceptance Criteria:
-  Given <how things begin>
-  When <action taken>
-  Then <outcome of taking action>
+  Given that our call segmenting is too chaotic 
+  When we have more intentful customers redirected to experienced relationship managers
+  Then less experienced staff can benefit from answering easier inquiries whilst experienced staff can better convert potential sales
 
