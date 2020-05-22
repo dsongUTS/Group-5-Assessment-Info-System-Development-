@@ -65,3 +65,14 @@ User story 4: Experienced Relationship manager
   When we have more intentful customers redirected to experienced relationship managers
   Then less experienced staff can benefit from answering easier inquiries whilst experienced staff can better convert potential sales
 
+User story 5: Inbound inquiring customer
+  Priority: Medium
+  Estimate: 1-2 months
+  User story: As a customer who is looking to find a unique holiday destination,
+  I want to be able to speak to a RM that is experienced with such enquiries,
+  So that I’m not redirected multiple times to RMs who are unable to help.
+  
+  Acceptance Criteria:
+  Given that when I call, I am connected to an RM,
+  I want to be connected to an RM who has expertise regarding my inquiry,
+  Then I won’t have to be redirected to multiple RMs before being connected to the correct one.
