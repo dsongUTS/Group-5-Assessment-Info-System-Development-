@@ -82,7 +82,7 @@ User story 6: Relationship manager targeting outbound customers
   I want to be able to target customers that are suited to my experience and product knowledge,
   So that I can increase my chances to achieve a sale or provide a service.
   
-  Acceptance criteria:
+  Acceptance Criteria:
   Given that customers are already profiled in the database,
   Profiling RMs and matching them with suitable customers,
   Would enable me to provide a more personal and convincing service.
