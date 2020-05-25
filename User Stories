@@ -74,3 +74,15 @@ User story 5: Inbound inquiring customer
   Given that when I call, I am connected to an RM,
   I want to be connected to an RM who has expertise regarding my inquiry,
   Then I won’t have to be redirected to multiple RMs before being connected to the correct one.
+  
+User story 6: Relationship manager targeting outbound customers
+  Priority: High
+  Estimate: 4-5 weeks
+  User story: As a relationship manager,
+  I want to be able to target customers that are suited to my experience and product knowledge,
+  So that I can increase my chances to achieve a sale or provide a service.
+  
+  Acceptance criteria:
+  Given that customers are already profiled in the database,
+  Profiling RMs and matching them with suitable customers,
+  Would enable me to provide a more personal and convincing service.
