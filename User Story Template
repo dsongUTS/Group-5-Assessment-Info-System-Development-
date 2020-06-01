@@ -1,0 +1,12 @@
+User story 1: 
+Priority: 
+Estimate:
+  User Story:
+  As a <description of user>
+  I want <functionality>
+  So that <benefit>
+  
+  Acceptance Criteria:
+  Given <how things begin>
+  When <action taken>
+  Then <outcome of taking action>

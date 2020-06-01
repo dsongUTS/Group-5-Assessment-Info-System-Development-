@@ -1,0 +1,88 @@
+User story Template: 
+Priority: 
+Estimate:
+  User Story:
+  As a <description of user>
+  I want <functionality>
+  So that <benefit>
+  
+  Acceptance Criteria:
+  Given <how things begin>
+  When <action taken>
+  Then <outcome of taking action>
+
+User story 1: Relationship Manager Outbound 
+Priority: Medium
+Estimate: 2-3 months
+  User Story:
+  As an outbound Relationship Manager
+  I want a way to have customer information automatically display on my screen and a potential script prepared
+  So that I can access whatever information I need at a glance 
+  
+  Acceptance Criteria:
+  Given that I will see important information
+  When I need to answer customer inquiries
+  Then I have an easier time answering them rather than taking valuable time searching for answers
+
+User story 2: Inbound inquiring customer 
+Priority: Medium
+Estimate: 2-3 months 
+  User Story:
+  As a customer with just a short inquiry needing clarification
+  I want to be have some sort of priority queue I can elect myself for 
+  So that I don't have to wait in line so long just for a quick call 
+  
+  Acceptance Criteria:
+  Given when I ring, I'm still waiting to be put on hold
+  When I'm able to select that my call is for a quick question under 2 minutes
+  Then that will make it more efficient for both parties 
+
+User story 3: Junior Relationship Manager
+Priority: High
+Estimate: 2-3 weeks
+  User Story:
+  As a new relationship manager with less experience 
+  I want a way for call flows to be more easily segmented 
+  So that I can better handle inquiries at my current level of expertise
+  
+  Acceptance Criteria:
+  Given the current large amount of holiday packages to remember
+  When I have more specific customers to deal with 
+  Then I will feel more at ease and provide better service for inquiries
+
+User story 4: Experienced Relationship manager 
+  Priority: High
+  Estimate: 2-3 weeks
+  User Story:
+  As a relationship manager with years of experience
+  I want a way for call flows to be more easily segmented
+  So that I can better convert customers with more willingness to buy
+  
+  Acceptance Criteria:
+  Given that our call segmenting is too chaotic 
+  When we have more intentful customers redirected to experienced relationship managers
+  Then less experienced staff can benefit from answering easier inquiries whilst experienced staff can better convert potential sales
+
+User story 5: Inbound inquiring customer
+  Priority: Medium
+  Estimate: 1-2 months
+  User story: As a customer who is looking to find a unique holiday destination,
+  I want to be able to speak to a RM that is experienced with such enquiries,
+  So that I’m not redirected multiple times to RMs who are unable to help.
+  
+  Acceptance Criteria:
+  Given that when I call, I am connected to an RM,
+  I want to be connected to an RM who has expertise regarding my inquiry,
+  Then I won’t have to be redirected to multiple RMs before being connected to the correct one.
+  
+User story 6: Relationship manager targeting outbound customers
+  Priority: High
+  Estimate: 4-5 weeks
+  User story: As a relationship manager,
+  I want to be able to target customers that are suited to my experience and product knowledge,
+  So that I can increase my chances to achieve a sale or provide a service.
+  
+  Acceptance Criteria:
+  Given that customers are already profiled in the database,
+  Profiling RMs and matching them with suitable customers,
+  Would enable me to provide a more personal and convincing service.
